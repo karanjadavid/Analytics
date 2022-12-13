@@ -1,0 +1,24 @@
+[
+    {
+        "class":"Year 1",
+        "student count":20,
+        "room":"Yellow",
+        "info":{
+            "teachers":{
+                "math":"Mr. Mutindwa",
+                "physics":"Mr.King'ang'i"
+            }
+        }
+    },
+    {
+        "class":"Year 2",
+        "student count":25,
+        "room":"Blue",
+        "info":{
+            "teachers":{
+                "math": "Mrs. Rotich",
+                "physics": "Mr. Rugano"
+            }
+        }
+    }
+]

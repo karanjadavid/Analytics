@@ -1,0 +1,20 @@
+{
+    "school":"ABC primary school",
+    "location":"London",
+    "ranking":2,
+    "info":{
+        "president":"John Cena",
+        "contacts":{
+            "email":{
+                "admission":"admission@abc.com",
+                "general":"info@qbc.com"
+            },
+            "tel":"123456789"
+        }
+    },
+    "students":[
+        {"name":"Tom"},
+        {"name":"James"},
+        {"name":"Jacqueline"}
+    ]
+}
